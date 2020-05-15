@@ -1,0 +1,16 @@
+{
+  "name": "tau",
+  "version": "1.0.0",
+  "description": "TAU, multi-purpose ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vito",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node-fetch": "^2.6.0",
+    "snekfetch": "^4.0.4"
+  }
+}
